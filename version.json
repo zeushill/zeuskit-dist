@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.0",
-    "file":  "https://github.com/zeushill/volcano-zeuskit-dist/releases/download/v1.2.0/Volcano-Zeuskit-1.2.0.zip",
-    "releasedAt":  "2026-10-22",
-    "notes":  "새 버전 알림 · 응답하는 프로필에만 명령 · 캐릭터 이미지 추가 · Nano Banana 2.1 기본"
+    "version":  "3.0.0",
+    "file":  "https://github.com/zeushill/volcano-zeuskit-dist/releases/download/v3.0.0/Volcano-Zeuskit-3.0.0.zip",
+    "releasedAt":  "2026-11-11",
+    "notes":  "3.0.0 — 아이콘을 누를 때마다 새 버전 확인 · 더 높은 버전이 있으면 내려받기 창 표시 · 새 Flow 도구 주소 적용"
 }
