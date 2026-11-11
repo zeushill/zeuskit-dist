@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.0",
-    "file":  "https://github.com/zeushill/volcano-zeuskit-dist/releases/download/v3.0.0/Volcano-Zeuskit-3.0.0.zip",
+    "version":  "3.0.1",
+    "file":  "https://github.com/zeushill/zeuskit-dist/releases/download/v3.0.1/Zeuskit-3.0.1.zip",
     "releasedAt":  "2026-11-11",
-    "notes":  "3.0.0 — 아이콘을 누를 때마다 새 버전 확인 · 더 높은 버전이 있으면 내려받기 창 표시 · 새 Flow 도구 주소 적용"
+    "notes":  "3.0.1 — 이름을 Zeuskit 으로 변경 (확장 이름 · 저장소 · 배포 파일)"
 }
