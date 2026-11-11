@@ -1,6 +1,6 @@
 {
-    "version":  "3.0.1",
-    "file":  "https://github.com/zeushill/zeuskit-dist/releases/download/v3.0.1/Zeuskit-3.0.1.zip",
+    "version":  "3.0.2",
+    "file":  "https://github.com/zeushill/zeuskit-dist/releases/download/v3.0.2/Zeuskit-3.0.2.zip",
     "releasedAt":  "2026-11-11",
-    "notes":  "3.0.1 — 이름을 Zeuskit 으로 변경 (확장 이름 · 저장소 · 배포 파일)"
+    "notes":  "3.0.2 — 이름을 Zeuskit 으로 통일(아이콘 설명 · 도구 v5) · 새 Flow 도구 주소 적용"
 }
