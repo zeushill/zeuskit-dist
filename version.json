@@ -1,6 +1,6 @@
 {
-    "version":  "3.1.0",
-    "file":  "https://github.com/zeushill/zeuskit-dist/releases/download/v3.1.0/Zeuskit-3.1.0.zip",
-    "releasedAt":  "2026-11-20",
-    "notes":  "3.1.0 — Flow 요청 10개 묶음 전송(도구 v6 · vz.mjs --batch · vzclient.py VZ_BATCH): 10개를 한꺼번에 넣고 다 끝나면 다음 10개 · 새 Flow 도구 주소(66233898) · 도구 탭을 못 열면 새 창으로 · 다른 확장과 내려받기 이름 충돌 경고 해결"
+    "version":  "3.2.0",
+    "file":  "https://github.com/zeushill/zeuskit-dist/releases/download/v3.2.0/zeuscraft-ai-3.2.0.zip",
+    "releasedAt":  "2026-11-25",
+    "notes":  "이름을 zeuscraft-ai 로 바꿨습니다 (확장·Flow 연결 도구 v6.1) · 아이콘을 제우스의 Z 로 교체 · 저장 폴더와 배포 zip 이름도 zeuscraft-ai 로 통일"
 }
